@@ -1,4 +1,3 @@
-https://drive.google.com/file/d/1rSZuq_gVoIeJNFoa4RgvjXaG9vT-2OZk/view
 
 Interrupt-Driven Reaction Game on DE1-SoC
 
@@ -86,3 +85,6 @@ Start the game with SW1, score shows on HEX.
 🙏 Note
 
 This project demonstrates real-time embedded design concepts: interrupts, hardware/software co-design, and FPGA-based gameplay.
+
+drive link: vedio
+https://drive.google.com/file/d/1rSZuq_gVoIeJNFoa4RgvjXaG9vT-2OZk/view
